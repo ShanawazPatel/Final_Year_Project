@@ -65,4 +65,4 @@ This project is licensed under the **MIT License**.
 Feel free to submit **issues** and **pull requests** to improve this project!
 
 ---
-💻 Developed by **Samarth Ghodake and Team** 🚀
+💻 Developed by _Shanawaz Patel and Team_ 🚀
